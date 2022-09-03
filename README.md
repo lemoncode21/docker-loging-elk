@@ -1,4 +1,4 @@
-# HOW to run docker compose ELK
+# How to run docker compose ELK
 
 - install docker on your PC
 - just run type: docker-compose up
